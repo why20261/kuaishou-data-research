@@ -3,6 +3,10 @@ name: kuaishou-data-research
 description: 快手数据智能助手。自媒体从业者的数据获取工具，提供快手搜索、作品获取、实时评论数据等实时数据的批量获取，为后续的内容研究、选题分析、用户痛点、数据分析、市场调研、对标账号监控、舆情分析、快手增长等场景提供真实可靠的数据支撑。支持三大能力：(1) 关键词搜索视频，可按点赞数、发布时间、视频时长筛选排序；(2) 达人作品抓取，按主页链接获取公开作品列表；(3) 视频评论分析，按视频链接获取评论内容与互动数据。
 license: MIT
 version: 1.0.0
+display_name: 🎯快手数据智能助手
+display_name_en: KuaiShou Data Research
+description_zh: 快手数据智能助手。自媒体从业者的数据获取工具，提供快手搜索、作品获取、实时评论数据等实时数据的批量获取，为后续的内容研究、选题分析、用户痛点、数据分析、市场调研、对标账号监控、舆情分析、快手增长等场景提供真实可靠的数据支撑。
+description_en: KuaiShou Data Intelligence Assistant. A data acquisition tool for self-media practitioners. It supports bulk retrieval of real-time data including Kwai search results, content extraction and live comment data. It provides authentic and reliable data support for subsequent scenarios such as content research, topic ideation analysis, user pain point identification, data analysis, market research, benchmark account monitoring, public opinion analysis and KuaiShou growth analysis.
 metadata:
   type: command
   runtime: "nodejs@16.14.0+"
